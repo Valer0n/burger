@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/burger/static/css/main.e96dd444.css",
+    "main.js": "/burger/static/js/main.cd7ab25c.js",
+    "static/media/up-burger.png": "/burger/static/media/up-burger.3c6155186a89fce30670.png",
+    "static/media/down-burger.png": "/burger/static/media/down-burger.3b99dc926607fb992925.png",
+    "index.html": "/burger/index.html",
+    "main.e96dd444.css.map": "/burger/static/css/main.e96dd444.css.map",
+    "main.cd7ab25c.js.map": "/burger/static/js/main.cd7ab25c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96dd444.css",
+    "static/js/main.cd7ab25c.js"
+  ]
+}
